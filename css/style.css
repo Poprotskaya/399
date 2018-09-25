@@ -80,6 +80,7 @@ h2 {
 	margin-left: 20px;
 	margin-right: 20px;
 	cursor: pointer;
+	outline: none;
 }
 
 .callback span {
@@ -105,6 +106,7 @@ h2 {
 	padding: 15px 10px;
 	text-transform: uppercase;
 	cursor: pointer;
+	outline: none;
 
 }
 
@@ -196,8 +198,7 @@ footer {
 	background: none;
 	border: 2px solid #018dc4;
 	border-radius: 6px;
-	padding: 5px 10px;
-	/*margin-left: 40px;*/
+	padding: 5px 10px;	
 	width: 150px;
 }
 
